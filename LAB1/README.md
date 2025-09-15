@@ -1,1 +1,1 @@
-МояПапка/LAB1
+Laboratory work 1. ERD diagram.
